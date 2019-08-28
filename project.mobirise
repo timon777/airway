@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Airway logistics",
+        "meta_descr": "Airway logistics",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
